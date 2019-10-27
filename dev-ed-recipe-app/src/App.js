@@ -14,7 +14,7 @@ const App = () => {
 			<form className='search-form'>
 				<input type='text' className='search-bar' />
 				<button type='submit' className='search-button'>
-					Submit
+					Submit this is stoopid
 				</button>
 			</form>
 			<h1 onClick={() => setCounter(counter + 1)}>{counter}</h1>
